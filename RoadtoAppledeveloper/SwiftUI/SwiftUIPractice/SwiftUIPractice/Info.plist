@@ -1,0 +1,17 @@
+{
+	"NSCameraUsageDescription" = "\"\Uc0ac\Uc9c4\Uc744 \Ucd2c\Uc601\Ud558\Uae30 \Uc704\Ud574 \Uce74\Uba54\Ub77c \Uc811\Uadfc\Uc774 \Ud544\Uc694\Ud569\Ub2c8\Ub2e4.\"";
+	"NSPhotoLibraryUsageDescription" = "\"\Uc568\Ubc94\Uc5d0\Uc11c \Uc0ac\Uc9c4\Uc744 \Uc120\Ud0dd\Ud558\Uae30 \Uc704\Ud574 \Uc811\Uadfc\Uc774 \Ud544\Uc694\Ud569\Ub2c8\Ub2e4.\"";
+	CFBundleIdentifier = {
+		CFBundleName = "$(PRODUCT_NAME)";
+		CFBundleIdentifier = "$(PRODUCT_BUNDLE_IDENTIFIER)";
+		"CFBundleShortVersionString" = "1.0";
+		CFBundleVersion = 1;
+		"UISupportedInterfaceOrientations" = (
+			"UIInterfaceOrientationPortrait",
+		);
+		LSRequiresIPhoneOS = YES;
+		UIDeviceFamily = (
+			1,
+		);
+	};
+}
