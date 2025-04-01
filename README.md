@@ -20,11 +20,12 @@
 ## 🍎 I am using ...
 
 - iPhone 15 Pro Max
-- iPad Air (5th generation, M1)
+- iPad Air (5th generation)
 - MacBook Pro 14" (M3 Pro, 2023)
 - Apple Studio Display
 - Apple Watch Ultra 2
 - AirPods Pro (2nd generation, USB-C)
+- ~~AirPods Max (Lightning)~~ ☠️
 - Magic Mouse (USB-C)
 - Magic Trackpad (USB-C)
-- ~~Airpods Max (Lightning)~~ ☠️
+- Magic Keyboard (USB-C)
