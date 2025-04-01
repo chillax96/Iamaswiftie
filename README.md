@@ -7,7 +7,7 @@
 
 ---
 
-## tmi
+## Apple Lover.
 
 우연히 대학생 때 iPhone 12 Pro Max로 처음 iPhone을 사용해보면서 흥미가 생겼고,  
 경영학 수업 과제로 Apple사의 기업 경영 사례를 분석하게 되었습니다.  
