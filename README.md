@@ -20,7 +20,7 @@
 ## 🍎 I am using ...
 
 - iPhone 15 Pro Max
-- iPad Air (5th generation)
+- iPad Air (5th generation, M1)
 - MacBook Pro 14" (M3 Pro, 2023)
 - Apple Studio Display
 - Apple Watch Ultra 2
