@@ -13,6 +13,18 @@
 그 과정에서 단순히 소비자의 시각을 넘어서 **경영자의 관점**으로 Apple을 바라보는  
 이색적인 경험을 하게 되었고, Apple이라는 브랜드에 깊이 빠지게 되었습니다.
 
-현재는 Apple 제품군의 대부분을 보유하고 직접 사용해 보며,  
+현재는 Apple의 다양한 제품군을 직접 사용해보면서,
 **Apple ecosystem**의 매력에 더욱 빠져들고 있습니다.  
 이제는 그 생태계의 **사용자**를 넘어 **기여자**(Contributor)가 되고자 합니다. 🐦‍🔥
+
+## 🍎 My Apple Gear
+
+- iPhone 15 Pro Max
+- iPad Air (5th generation)
+- MacBook Pro 14" (M3 Pro, 2023)
+- Apple Studio Display
+- Apple Watch Ultra 2
+- AirPods Pro (2nd generation, USB-C)
+- Magic Mouse (USB-C)
+- Magic Trackpad (USB-C)
+- ~~Airpods Max (Lightning)~~ ☠️
