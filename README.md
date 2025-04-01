@@ -1,11 +1,11 @@
-## I am a swiftie
+## 💨 I am a swiftie
 
 안녕하세요. 🙋‍♂️🙇‍♂️🙋‍♂️
 
 경영학을 전공했지만, 현재는 **Apple 생태계의 개발자**가 되기 위해 공부하고 있습니다.  
 **포기하지 않고** 이 여정을 `Iamaswiftie` 에 하나씩 기록하며 성장해 나갈 계획입니다.
 
-## I am an Apple lover
+## ❤️ I am an Apple lover
 
 우연히 대학생 때 iPhone 12 Pro Max로 처음 iPhone을 사용해보면서 흥미가 생겼고,  
 경영학 수업 과제로 Apple사의 기업 경영 사례를 분석하게 되었습니다.  
