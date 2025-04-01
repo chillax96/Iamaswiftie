@@ -17,7 +17,7 @@
 **Apple ecosystem**의 매력에 더욱 빠져들고 있습니다.  
 이제는 그 생태계의 **사용자**를 넘어 **기여자**(Contributor)가 되고자 합니다. 🐦‍🔥
 
-## 🍎 I Apple Gears
+## 🍎 I am using ...
 
 - iPhone 15 Pro Max
 - iPad Air (5th generation)
